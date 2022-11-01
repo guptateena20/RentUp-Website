@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/crypto-currency-Website/static/css/main.8152d3e3.css",
+    "main.js": "/crypto-currency-Website/static/js/main.53636763.js",
+    "static/media/about.jpg": "/crypto-currency-Website/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/pricing.jpg": "/crypto-currency-Website/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/crypto-currency-Website/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/banner.png": "/crypto-currency-Website/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "static/media/error.jpg": "/crypto-currency-Website/static/media/error.6ea98444d9b2b80d15fa.jpg",
+    "index.html": "/crypto-currency-Website/index.html",
+    "main.8152d3e3.css.map": "/crypto-currency-Website/static/css/main.8152d3e3.css.map",
+    "main.53636763.js.map": "/crypto-currency-Website/static/js/main.53636763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8152d3e3.css",
+    "static/js/main.53636763.js"
+  ]
+}
